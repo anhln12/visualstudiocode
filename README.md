@@ -1,1 +1,4 @@
 # visualstudiocode
+
+
+code .
